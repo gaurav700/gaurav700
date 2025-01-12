@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gaurav</h1>
-<h3 align="center">I am pursuing a MS degree in Computer Science, where I am expanding my horizons in various aspects of software development, such as database management, API creation, user interface design, and network congestion control. Previously, I worked as an Associate Software Engineer at GlobalLogic, where I delivered efficient and robust solutions for various projects, such as extracting and transforming data from unstructured sources, optimizing data extraction processes, and developing dynamic user interfaces. I collaborated closely with other developers, contributed to innovative and creative problem-solving, and continuously sought improvement and learning opportunities. I also spearheaded the meticulous process of writing, reviewing, and debugging code, and ensured data integrity by applying validation and quality assurance measures. My goal is to join a team that values software excellence, collaboration, and innovation, and to contribute to exciting and impactful software endeavors. I am eager to connect with you and explore potential opportunities.</h3>
+<h3 align="center">I am pursuing a MS degree in Computer Science, where I am expanding my horizons in various aspects of software development, such as database management, API creation, user interface design. Previously, I worked as an Associate Software Engineer at GlobalLogic, where I delivered efficient and robust solutions for various projects, such as extracting and transforming data from unstructured sources, optimizing data extraction processes, and developing dynamic user interfaces. I collaborated closely with other developers, contributed to innovative and creative problem-solving, and continuously sought improvement and learning opportunities. I also spearheaded the meticulous process of writing, reviewing, and debugging code, and ensured data integrity by applying validation and quality assurance measures. My goal is to join a team that values software excellence, collaboration, and innovation, and to contribute to exciting and impactful software endeavors. I am eager to connect with you and explore potential opportunities.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav700&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav700" /> </p>
 
-- 🌱 I’m currently learning **SpringBoot**
-
 - 👨‍💻 All of my projects are available at [https://gauravme.netlify.app/](https://gauravme.netlify.app/)
 
-- 💬 Ask me about **react, springboot, java**
+- 💬 Ask me about **react, springboot, java, nodejs, javascript**
 
 - 📫 How to reach me **gauravnjit2023@gmail.com**
 
