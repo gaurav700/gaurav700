@@ -1,13 +1,47 @@
-<h1 align="center">Hi 👋, I'm Gaurav</h1>
-<h3 align="center">I am pursuing a MS degree in Computer Science, where I am expanding my horizons in various aspects of software development, such as database management, API creation, user interface design. Previously, I worked as an Associate Software Engineer at GlobalLogic, where I delivered efficient and robust solutions for various projects, such as extracting and transforming data from unstructured sources, optimizing data extraction processes, and developing dynamic user interfaces. I collaborated closely with other developers, contributed to innovative and creative problem-solving, and continuously sought improvement and learning opportunities. I also spearheaded the meticulous process of writing, reviewing, and debugging code, and ensured data integrity by applying validation and quality assurance measures. My goal is to join a team that values software excellence, collaboration, and innovation, and to contribute to exciting and impactful software endeavors. I am eager to connect with you and explore potential opportunities.</h3>
+# Gaurav
+gaurav6342 | fg227@njit.edu | LinkedIn | GitHub | (848) 363-8754
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav700&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav700" /> </p>
+## EDUCATION
+**New Jersey Institute of Technology** | Master of Science in Computer Science | GPA: 3.83 / 4.0 | September 2023 - May 2025  
+Coursework: Data Structure and Algorithms, Operating Systems, Internet Higher Level Protocol, DBMS, Big Data, Java Programming, Cloud Computing, Web System Development | Newark, NJ
 
-- 👨‍💻 All of my projects are available at [https://gauravme.netlify.app/](https://gauravme.netlify.app/)
+## WORK EXPERIENCE
 
-- 💬 Ask me about **react, springboot, java, nodejs, javascript**
+**GlobalLogic (Project: Google Shopping)** | December 2022 - July 2023  
+*Software Engineer* | Gurugram, India
+* Enhanced JavaScript and regex scripts for internal tools, increasing Google Shopping merchant feed accuracy by 20%, improving data quality and merchant trust.
+* Utilized internal QA tools to identify and report defects, reducing deployment errors by 15% and streamlining the quality assurance process.
+* Collaborated cross-functionally with operations and support teams to resolve merchant escalations, accelerating approval times by 25% and improving overall workflow efficiency.
+* Implemented automated testing procedures with JavaScript and internal frameworks to ensure code quality and reliability.
 
-- 📫 How to reach me **gauravnjit2023@gmail.com**
+**DeepCall** | May 2022 - August 2022  
+*Software Engineer* | Jaipur, India
+* Developed dynamic ReactJS front-end components and pages, integrating advanced features that enhanced user experience and contributed to a 30% increase in user engagement.
+* Designed and implemented MongoDB integration using Node.js and Express, ensuring seamless data connectivity and management, improving data retrieval efficiency by 25%.
+* Built RESTful APIs using Node.js for front-end and back-end communication, handling thousands of daily requests.
+* Deployed scalable web components using full-stack skills to create cohesive and responsive applications, reducing development time by 20% and supporting faster feature roll-outs.
+
+## PROJECTS
+
+**Uber Backend Implementation** | Java, SpringBoot, JWT, SwaggerUI, PostgreSQL
+* Architected and developed a scalable backend system for ride-sharing application using Spring Boot and microservices architecture.
+* Implemented secure user authentication and authorization with JWT, ensuring protected API endpoints and user data privacy.
+* Designed efficient geolocation services and fare calculation algorithms to support real-time ride matching.
+* Created comprehensive API documentation with SwaggerUI, facilitating easier integration and developer adoption.
+
+**Common Transactive Services (Sponsor: Energy Mashup Lab)** | Java, Spring Boot, Maven, JUnit, Git
+* Collaborated in a team to develop an open-source Transactive Energy market system using actor-based architectures.
+* Contributed significantly to implementing Quote Driven market functionality, following MVC design patterns.
+* Built robust unit and integration tests using JUnit, ensuring code reliability and stability.
+* Utilized Git for version control and collaborative development in an Agile team environment.
+
+## TECHNICAL SKILLS
+**Programming Languages:** Java, JavaScript/TypeScript, PHP, C, C++, Python  
+**Backend Development:** Spring Boot (Data, Security), Node.js (Express, Socket.io, GraphQL), REST APIs  
+**Frontend Development:** React (Redux), Next.js, HTML5, CSS3, TailwindCSS  
+**Databases:** MySQL, MongoDB, Oracle, PostgreSQL, Neo4j  
+**Cloud and DevOps:** Docker, Kubernetes, Git, GitHub, AWS (S3, RDS, DynamoDB, EC2), Microservices, JWT, OAuth2, Kafka, Redis
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
