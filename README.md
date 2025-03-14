@@ -1,5 +1,5 @@
-# Gaurav
-gaurav6342 | fg227@njit.edu | LinkedIn | GitHub | (848) 363-8754
+<h1 align="center">Hi 👋, I'm Gaurav</h1>
+fg227@njit.edu | (848) 363-8754
 
 ## EDUCATION
 **New Jersey Institute of Technology** | Master of Science in Computer Science | GPA: 3.83 / 4.0 | September 2023 - May 2025  
@@ -34,14 +34,6 @@ Coursework: Data Structure and Algorithms, Operating Systems, Internet Higher Le
 * Contributed significantly to implementing Quote Driven market functionality, following MVC design patterns.
 * Built robust unit and integration tests using JUnit, ensuring code reliability and stability.
 * Utilized Git for version control and collaborative development in an Agile team environment.
-
-## TECHNICAL SKILLS
-**Programming Languages:** Java, JavaScript/TypeScript, PHP, C, C++, Python  
-**Backend Development:** Spring Boot (Data, Security), Node.js (Express, Socket.io, GraphQL), REST APIs  
-**Frontend Development:** React (Redux), Next.js, HTML5, CSS3, TailwindCSS  
-**Databases:** MySQL, MongoDB, Oracle, PostgreSQL, Neo4j  
-**Cloud and DevOps:** Docker, Kubernetes, Git, GitHub, AWS (S3, RDS, DynamoDB, EC2), Microservices, JWT, OAuth2, Kafka, Redis
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
